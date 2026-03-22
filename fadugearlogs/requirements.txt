@@ -1,0 +1,15 @@
+# Web Framework
+streamlit
+
+# Data Manipulation
+pandas
+numpy
+
+# AI & LLM Integration
+groq
+
+# Visualization
+plotly
+
+# Utilities
+requests
